@@ -14,7 +14,7 @@ body {
 
 #page-wraper {
     /*background: url(../images/bg2.jpg) no-repeat center center fixed;*/
-        background-color: #68b0ab
+    background-color: #68b0ab
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -684,7 +684,7 @@ section.contact-me {
     }
 
     .section {
-        color: #fff;
+        color: #68b0ab;
         width: 65%;
         right: 5%;
         left: 30%;
