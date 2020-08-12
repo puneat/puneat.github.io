@@ -13,7 +13,8 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/bg2.jpg) no-repeat center center fixed;
+    /*background: url(../images/bg2.jpg) no-repeat center center fixed;*/
+        background-color: #fff
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
