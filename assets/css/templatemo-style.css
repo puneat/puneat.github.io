@@ -14,7 +14,7 @@ body {
 
 #page-wraper {
     /*background: url(../images/bg2.jpg) no-repeat center center fixed;*/
-        background-color: #fff
+        background-color: #68b0ab
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -224,7 +224,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #000000;
+  background-color: #111d5e;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
