@@ -14,7 +14,7 @@ body {
 
 #page-wraper {
     /*background: url(../images/bg2.jpg) no-repeat center center fixed;*/
-    background-color: #68b0ab
+    background-color: #1b262c;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -133,18 +133,18 @@ html {
 /* Sidebar Menu */
 
 .menu .image {
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 .menu .image img {
-    width: 140px;
-    height: 140px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     text-align: center;
 }
 
 .menu .author-content {
-    margin: 40px 0px 60px 0px;
+    margin: 20px 0px 30px 0px;
 }
 
 .menu .author-content h4 {
@@ -158,7 +158,7 @@ html {
 }
 
 .menu .social-network {
-    margin-top: 60px;
+    margin-top: 10px;
 }
 
 .menu .social-network ul li {
@@ -224,7 +224,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #222831;
+  background-color: #c06c84;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
@@ -285,7 +285,7 @@ html {
 /* Section */
 
 .section {
-    color: #68b0ab;
+    color: #fff;
     width: 55%;
     right: 10%;
     left: 35%;
@@ -680,11 +680,12 @@ section.contact-me {
 
 @media screen and (max-width: 1680px) {
     .menu {
-        left: 5%;
+        left: 0%;
+        width: 25%
     }
 
     .section {
-        color: #68b0ab;
+        color: #fff;
         width: 65%;
         right: 5%;
         left: 30%;
