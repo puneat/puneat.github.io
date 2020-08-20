@@ -113,11 +113,11 @@ html {
 }
 
 .main-nav li a {
-    height: 70px;
-    line-height: 70px;
+    height: 43px;
+    line-height: 43px;
     display: inline-block;
-    font-size: 16px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 500;
     color: #fff;
     width: 100%;
     transition: all 0.5s;
@@ -137,14 +137,14 @@ html {
 }
 
 .menu .image img {
-    width: 220px;
+    width: 200px;
     height: 200px;
-    border-radius: 30%;
+    border-radius: 50%;
     text-align: center;
 }
 
 .menu .author-content {
-    margin: 20px 0px 30px 0px;
+    margin: 10px 0px 10px 0px;
 }
 
 .menu .author-content h4 {
